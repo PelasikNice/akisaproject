@@ -13,7 +13,6 @@
   "authors": [
     "PelasikNice"
   ],
-  "license": "MIT",
   "icon": "assets/citresewn/logo.png",
   "contact": {
     "homepage": "https://discord.gg/c8DWcezy7J",
